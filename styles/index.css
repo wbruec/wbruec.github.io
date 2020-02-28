@@ -1,0 +1,40 @@
+html {
+    font-size: 15px;
+    font-family: 'Fira Sans';
+    background-color: grey;
+}
+
+body {
+  width: 90%;
+  margin: 10px auto;
+  background-color: rgb(255, 255, 255);
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0; 
+  color: grey;
+  text-align: center;
+  font-size: large;
+}
+
+h2, p {
+  text-indent: 10px;
+}
+
+#bunnyDiv {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#changeBunny {
+  font-size: larger;
+  margin-bottom: 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+}
+
