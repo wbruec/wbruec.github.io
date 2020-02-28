@@ -15,11 +15,12 @@ h1 {
   margin: 0; 
   color: grey;
   text-align: center;
-  font-size: large;
+  font-size: x-large;
 }
 
 h2, p {
   text-indent: 10px;
+  font-size: x-large;
 }
 
 #bunnyDiv {
@@ -28,7 +29,7 @@ h2, p {
 }
 
 #changeBunny {
-  font-size: larger;
+  font-size: x-large;
   margin-bottom: 10px;
 }
 
@@ -37,4 +38,3 @@ img {
   margin: 0 auto;
   width: 70%;
 }
-
