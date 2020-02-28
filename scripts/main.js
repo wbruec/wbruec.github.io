@@ -1,4 +1,4 @@
-let myHeading = document.querySelector("h2");
+/*let myHeading = document.querySelector("h2");
 
 function setUserName() {
   let myName = prompt("Wie heißt du?");
@@ -16,6 +16,7 @@ if(!localStorage.getItem("name")) {
     let storedName = localStorage.getItem("name");
     myHeading.textContent = "Hallo " + myName + "!";
   }
+*/
 
 let myImage = document.querySelector("img");
 
