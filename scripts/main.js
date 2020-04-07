@@ -1,3 +1,4 @@
+/*
 let myHeading = document.querySelector("h2");
 
 function setUserName() {
@@ -16,7 +17,7 @@ if(!localStorage.getItem("name")) {
     let storedName = localStorage.getItem("name");
     myHeading.textContent = "Hallo " + myName + "!";
   }
-
+*/
 
 let myImage = document.querySelector("img");
 
